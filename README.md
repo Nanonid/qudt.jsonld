@@ -1,6 +1,6 @@
 # qudt.jsonld
 A json-ld context cache/translation for reference [QUDT - Quantities, Units, Dimensions and Data Types "Ontologies"](http://qudt.org/).
-Essentially enable some form of canonical dimensional analysis in your JSON.
+Essentially enable some form of canonical dimensional analysis of your JSON.
 
 ##Overview
 
