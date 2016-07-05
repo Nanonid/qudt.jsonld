@@ -8,6 +8,7 @@ The QUDT Ontologies, and derived XML Vocabularies, are being developed by TopQua
 
 ## Notes
 
-1. Hosted on the github pages as well.
+1. Hosted on the github pages as well. [https://nanonid.github.io/qudt.jsonld/qudt.jsonld](https://nanonid.github.io/qudt.jsonld/qudt.jsonld)
 2. Uses "jsonld" instead of the "json-ld" file extension. Although it seems canonical, it still is annoying to have the needless hyphen and possibly special character depending on parsing environment.
 3. No version in the resource name, for now.
+4. Repository name names URL feel redundant and awkward. :/
